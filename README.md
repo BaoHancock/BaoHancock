@@ -5,7 +5,7 @@
 # 💫 About Me:
 I'm a Developer like Frontend Developer but for as to know mern stack Developer
 
-
+<center>![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaoHancock&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</center>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sangram) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sangram31) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@zoro-tv) 
 
@@ -37,7 +37,7 @@ I'm a Developer like Frontend Developer but for as to know mern stack Developer
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BaoHancock&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BaoHancock&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaoHancock&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BaoHancock&theme=radical&no-frame=false&no-bg=false&margin-w=4)

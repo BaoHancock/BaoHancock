@@ -1,5 +1,7 @@
 
 ![Devloper](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif) 
+![Devloper](https://miro.medium.com/v2/resize:fit:1358/1*KcxCTzISut_FEkKduDE4hw.gif) 
+
 # 💫 About Me:
 I'm a Developer like Frontend Developer but for as to know mern stack Developer
 

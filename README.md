@@ -11,7 +11,7 @@
   <div class="tesla-box">
     Tesla
   </div>
-  <img src="[aa6b8ffa59a8d2cd830205ec11457706.gif](https://i.pinimg.com/originals/aa/6b/8f/aa6b8ffa59a8d2cd830205ec11457706.gif)https://i.pinimg.com/originals/aa/6b/8f/aa6b8ffa59a8d2cd830205ec11457706.gif"></img>
+  <img src="https://i.pinimg.com/originals/aa/6b/8f/aa6b8ffa59a8d2cd830205ec11457706.gif)https://i.pinimg.com/originals/aa/6b/8f/aa6b8ffa59a8d2cd830205ec11457706.gif"></img>
 
 </body>
 </html>

@@ -22,4 +22,4 @@
 <a href="https://discord.gg/nv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nv" height="30" width="40" /></a>
 </p><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="v" height="30" width="40" />
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hmb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hmb" /></a><a href="https://ko-fi.com/h"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="h" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/hmb"> <img align="left" src="https://i.pinimg.com/originals/aa/6b/8f/aa6b8ffa59a8d2cd830205ec11457706.gif" height="50" width="210" alt="hmb" /></a><a href="https://ko-fi.com/h"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="h" /></a></p><br><br>
